@@ -1638,7 +1638,7 @@ section {
   padding: 0px 0;
   background: #fff;
   min-height: 0px;
-  margin-top: 0px;
+  margin-top: 30px;
 }
 
 @media (max-width: 992px) {
