@@ -1636,8 +1636,8 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f8fbfe;
-  min-height: 40px;
+  background: #fff;
+  min-height: 0px;
   margin-top: 72px;
 }
 
